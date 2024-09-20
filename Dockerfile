@@ -9,3 +9,4 @@ ENTRYPOINT ["java","-jar","/app.jar"]
 #docker login
 #docker tag micro  allamchz/eureka:latest
 #docker push allamchz/eureka:latest
+
